@@ -1,0 +1,17 @@
+// Node.JS Basis
+// Intro Node.js
+// Installing NodeJS and NPM
+// Working With Modules
+// File System Operations
+// Understanding HTTP Module
+
+// 1. Node.JS Basis - is not programming language its runtime environment jisme hum kisi bhi JavaScript ke code ko run kar sakte hai
+
+// Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine.
+// It uses an event-driven, non-blocking I/O model that makes it lightweight and efficient.
+// Node.js allows you to write server-side and networking applications using JavaScript.
+
+//// Installing NodeJS and NPM
+// working with Node and NPM
+// npm initialization commands init
+// node basis usage
