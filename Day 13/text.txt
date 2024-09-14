@@ -1,0 +1,14 @@
+
+
+// User ko profile Tak le jane se pahle check karna padta hai ki wo user hai bhi yah nahi - use kahate hia Authentication
+
+
+
+// Authorizations
+
+
+// Cookie and sessions
+
+// Cookie kese set karte hai 
+// bcrypt kese use karte hai for password encryption and decryp
+// jwt kese use karte hai for data store
